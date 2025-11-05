@@ -6,12 +6,7 @@
     <description>Feed containing a single Medium article</description>
 
     <item>
-      <title>Where Did All the Magazine Girls Go?</title>
       <link>https://victorzhou.com/blog/intro-to-cnns-part-1/</link>
-      <description><![CDATA[
-        <p>This article is hosted on Medium. You can read it at the link below.</p>
-        <p><a href="https://victorzhou.com/blog/intro-to-cnns-part-1/">Read full article</a></p>
-      ]]></description>
     </item>
   </channel>
 </rss>
