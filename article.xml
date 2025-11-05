@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Medium Article Feed</title>
+    <title>Where Did All the Magazine Girls Go? | by Ella Kovuk | Medium</title>
     <link>https://medium.com/@shelfindulgence/where-did-all-the-magazine-girls-go-d269b527df33</link>
-    <description>Feed containing a single Medium article</description>
+    <description>Feed generated automatically for a single article</description>
 
     <item>
-      <title>Where Did All the Magazine Girls Go?</title>
+      <title>Where Did All the Magazine Girls Go? | by Ella Kovuk | Medium</title>
       <link>https://medium.com/@shelfindulgence/where-did-all-the-magazine-girls-go-d269b527df33</link>
       <description><![CDATA[
-<p><img src="https://miro.medium.com/v2/resize:fit:1400/1*bTXQb4npYw8EidQOBLb9Gg.jpeg" alt="Magazine Girls cover" style="max-width:100%; height:auto;"/></p>
-<p>This article is hosted on Medium. You can read it at the link below.</p>
-<p><a href="https://medium.com/@shelfindulgence/where-did-all-the-magazine-girls-go-d269b527df33">Read full article</a></p>
+<p>Sign up</p>
+<p><img src="https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png" alt="Where Did All the Magazine Girls Go? | by Ella Kovuk | Medium" style="max-width:100%; height:auto;"/></p>
+<p><a href="https://medium.com/@shelfindulgence/where-did-all-the-magazine-girls-go-d269b527df33">Read full article on Medium</a></p>
 ]]></description>
-      <pubDate>Wed, 05 Nov 2025 12:00:00 GMT</pubDate>
+      <media:content url="https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png" medium="image"/>
+      <pubDate>Wed, 05 Nov 2025 07:52:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
